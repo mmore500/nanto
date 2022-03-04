@@ -23,8 +23,6 @@ nanto makes working with values that might be NaN safer and easier
 * Documentation: https://nanto.readthedocs.io.
 
 
-Inspired by C++'s :code:`std::optional`.
-
 
 .. code-block:: python3
 
