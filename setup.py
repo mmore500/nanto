@@ -34,6 +34,7 @@ setup(
     description="nanto makes working with values that might be NaN safer and easier",
     install_requires=requirements,
     license="MIT license",
+    long_description_content_type="text/x-rst",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
     keywords='nanto',
