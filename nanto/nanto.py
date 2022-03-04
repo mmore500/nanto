@@ -1,7 +1,7 @@
-import math
 import typing
 
 from .isanan import isanan
+
 
 def nanto(
     value: typing.Any,

@@ -4,8 +4,6 @@
 `apply_if_or_else` tests for `opyttional` package.
 '''
 
-import math
-
 from nanto import isanan
 
 value_battery_without_nan = [
